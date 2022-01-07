@@ -1,4 +1,5 @@
 # doing necessary imports
+
 import threading
 import io
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
@@ -150,3 +151,7 @@ def create_figure():
 
 if __name__ == "__main__":
     app.run(port=8000,debug=True)  # running the app on the local machine on port 8000
+
+
+#Heroku deployment
+## https://scrapper-flipkart.herokuapp.com/

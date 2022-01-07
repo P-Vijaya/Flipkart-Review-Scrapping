@@ -132,3 +132,7 @@
 2022-01-02 15:47:25,979:INFO:flipkrat.py:login popup handled
 2022-01-02 15:47:26,172:INFO:flipkrat.py:Search begins for samsung
 2022-01-02 15:48:19,531:INFO:flipkrat.py:Thread run completed
+2022-01-07 20:31:36,556:INFO:flipkrat.py:Url hitted
+2022-01-07 20:31:36,694:INFO:flipkrat.py:login popup handled
+2022-01-07 20:31:36,856:INFO:flipkrat.py:Search begins for iphone7
+2022-01-07 20:32:28,121:INFO:flipkrat.py:Thread run completed
